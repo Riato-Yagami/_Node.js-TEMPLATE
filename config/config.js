@@ -1,4 +1,5 @@
 module.exports = {
     input : 'input/',
-    output : 'output/'
+    output : 'output/week-planer',
+    tableType : 'xlsx'
 }
