@@ -1,4 +1,4 @@
 module.exports = {
-    input : 'input/',
-    output : 'output/'
+    input : 'files/input/',
+    output : 'files/output/'
 }
